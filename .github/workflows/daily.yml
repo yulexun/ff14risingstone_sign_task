@@ -17,3 +17,5 @@ jobs:
         with:
           cookie: ${{ secrets.COOKIE }}
           user_agent: ${{ secrets.USER_AGENT }}
+          get_sign_reward: true
+          
