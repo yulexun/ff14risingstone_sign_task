@@ -17,3 +17,4 @@ jobs:
         with:
           cookie: ${{ secrets.COOKIE }}
           user_agent: ${{ secrets.USER_AGENT }}
+          check_house_remain: true
